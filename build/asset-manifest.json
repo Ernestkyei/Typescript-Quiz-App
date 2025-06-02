@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Typescript-Quiz-App/static/css/main.23aca5ec.css",
+    "main.js": "/Typescript-Quiz-App/static/js/main.f76c633e.js",
+    "index.html": "/Typescript-Quiz-App/index.html",
+    "main.23aca5ec.css.map": "/Typescript-Quiz-App/static/css/main.23aca5ec.css.map",
+    "main.f76c633e.js.map": "/Typescript-Quiz-App/static/js/main.f76c633e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23aca5ec.css",
+    "static/js/main.f76c633e.js"
+  ]
+}
